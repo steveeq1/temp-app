@@ -48,6 +48,7 @@
     "@tailwindcss/postcss7-compat": "^2.0.3",
     "autoprefixer": "^9",
     "postcss": "^7",
+    "postcss-preset-env": "^6.7.0",
     "storybook": "^6.1.20",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
